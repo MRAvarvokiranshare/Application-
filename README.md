@@ -52,11 +52,13 @@
 
 
 <h1 align="center">
-  ✨<span style="color:#FF5733;">🆃︎🆁︎🅰︎🅲︎🅴︎</span> 
+  ✨<span style="color:#FF5733;">اثــری از </span> 
   <span style="color:#6C5CE7;">ℴ𝒻</span> 
   <span style="color:#27AE60;">𝐌𝐑</span> 
   <span style="color:#2980B9;">𝑎𝑣𝑎𝑟𝑣𝑜𝑘</span>✨
 </h1>
+
+
 
 ```bash
 
