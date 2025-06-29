@@ -59,18 +59,50 @@
 </h1>
 
 
+# Python glow for MR avarvok
+name = "🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘"
+for c in name:
+    print(f"\033[95m{c}\033[0m", end="")
+print("\n🔥 Welcome to the code universe!")
+
+
+<!-- HTML display for README preview -->
+<h1 style="color:#e84393; font-family:cursive; text-align:center;">
+  🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 <span style="color:#0984e3;">𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘</span>
+</h1>
+
+
+/* CSS Glowing Text */
+.glow-name {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: 0 0 5px #ff00cc, 0 0 10px #ff00cc, 0 0 20px #ff00cc;
+  font-family: 'Courier New', cursive;
+}
+
+
+
+public class Banner {
+    public static void main(String[] args) {
+        String name = "🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘";
+        for (char c : name.toCharArray()) {
+            System.out.print(c + " ");
+        }
+        System.out.println("\n🎬 Welcome to WorldFreeMovies!");
+    }
+}
+
+
+
+
+
+
+
+
 
 ```bash
-
-
-<p align="center">
-  <strong>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=🆃︎🆁︎🅰︎🅲︎🅴︎+ℴ𝒻+𝐌𝐑+𝑎𝑣𝑎𝑟𝑣𝑜𝑘" alt="Typing SVG" />
-  </strong>
-</p>
-
-<h1 align="center">🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘</h1>
-
 https://share.google/WD0BmQGDhecVdvl7U
 cd worldfreemovies
 npm install
