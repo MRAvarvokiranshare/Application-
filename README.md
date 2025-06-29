@@ -62,7 +62,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=800&height=80&lines=🆃︎🆁︎🅰︎🅲︎🅴︎+ℴ𝒻+𝐌𝐑+𝑎𝑣𝑎𝑟𝑣𝑜𝑘" alt="typing-svg" />
 </p>
 
-<p align="center">
+<p align="![1000332375](https://github.com/user-attachments/assets/2a319126-04d2-4f28-840f-16c735f6919c)
+">
   <img src="https://img.shields.io/badge/Code%20by-MR%20avarvok-%2300f0ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Magic%20Mix%20🧪-purple?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -82,7 +83,4 @@
 
 
 ```bash
-https://share.google/WD0BmQGDhecVdvl7U
-cd worldfreemovies
-npm install
-npm start
+MRAvarvokiranshare (𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘) https://share.google/QNgjDxDLTTfU1UwCq
