@@ -45,10 +45,30 @@
 ✅ جدیدترین فیلم‌ها و سریال‌های روز دنیا  
 ✅ لینک مستقیم پخش یا دانلود  
 ✅ دسته‌بندی‌شده، بدون تبلیغات اضافه  
-
+#با فیلتر شکن وارد شوید 
 📡 لینک عضویت مستقیم: [https://t.me/avarhma](https://t.me/avarhma) 
 
+
+
+
+<h1 align="center">
+  ✨<span style="color:#FF5733;">🆃︎🆁︎🅰︎🅲︎🅴︎</span> 
+  <span style="color:#6C5CE7;">ℴ𝒻</span> 
+  <span style="color:#27AE60;">𝐌𝐑</span> 
+  <span style="color:#2980B9;">𝑎𝑣𝑎𝑟𝑣𝑜𝑘</span>✨
+</h1>
+
 ```bash
+
+
+<p align="center">
+  <strong>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=🆃︎🆁︎🅰︎🅲︎🅴︎+ℴ𝒻+𝐌𝐑+𝑎𝑣𝑎𝑟𝑣𝑜𝑘" alt="Typing SVG" />
+  </strong>
+</p>
+
+<h1 align="center">🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘</h1>
+
 https://share.google/WD0BmQGDhecVdvl7U
 cd worldfreemovies
 npm install
