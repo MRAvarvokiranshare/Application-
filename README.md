@@ -58,43 +58,22 @@
   <span style="color:#2980B9;">𝑎𝑣𝑎𝑟𝑣𝑜𝑘</span>✨
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FFF0&center=true&vCenter=true&width=800&height=80&lines=🆃︎🆁︎🅰︎🅲︎🅴︎+ℴ𝒻+𝐌𝐑+𝑎𝑣𝑎𝑟𝑣𝑜𝑘" alt="typing-svg" />
+</p>
 
-# Python glow for MR avarvok
-name = "🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘"
-for c in name:
-    print(f"\033[95m{c}\033[0m", end="")
-print("\n🔥 Welcome to the code universe!")
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20by-MR%20avarvok-%2300f0ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Magic%20Mix%20🧪-purple?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
+<pre align="center">
 
-<!-- HTML display for README preview -->
-<h1 style="color:#e84393; font-family:cursive; text-align:center;">
-  🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 <span style="color:#0984e3;">𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘</span>
-</h1>
+🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸
+🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘
+🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸
 
-
-/* CSS Glowing Text */
-.glow-name {
-  font-size: 32px;
-  font-weight: bold;
-  text-align: center;
-  color: #ffffff;
-  text-shadow: 0 0 5px #ff00cc, 0 0 10px #ff00cc, 0 0 20px #ff00cc;
-  font-family: 'Courier New', cursive;
-}
-
-
-
-public class Banner {
-    public static void main(String[] args) {
-        String name = "🆃︎🆁︎🅰︎🅲︎🅴︎ ℴ𝒻 𝐌𝐑 𝑎𝑣𝑎𝑟𝑣𝑜𝑘";
-        for (char c : name.toCharArray()) {
-            System.out.print(c + " ");
-        }
-        System.out.println("\n🎬 Welcome to WorldFreeMovies!");
-    }
-}
-
-
+</pre>
 
 
 
